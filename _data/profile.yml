@@ -60,3 +60,13 @@ awards:
   date: 2021
 - name: A quick brown fox jumps over the lazy dog and runs away award
   date: 2021
+
+Service:
+- name: Presentation at the CCF Computility 2025 Forum for Excellent PhD Students and Young Scholars
+- name: CCF Chinasoft 2022 软件工程教学案例交流与竞赛
+- name: CCF Chinasoft 2021 软件工程教学案例交流与竞赛
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  Copyright © 2025 <a href="https://github.com/igeng" target="_blank">Tiangang Li</a>. All Rights Reserved.
