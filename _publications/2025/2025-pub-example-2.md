@@ -2,7 +2,7 @@
 title:          "SAC-based Ensemble Framework for Multi-view Workload Forecasting in Cloud Computing"
 date:           2025-08-20 00:01:00 -0800
 selected:       true
-pub:            "Journal of Software (软件学报)"
+pub:            "Journal of Software (in Chinese)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-danger">中文 CCF-A</span>'
