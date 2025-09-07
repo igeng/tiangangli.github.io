@@ -5,7 +5,7 @@ selected:       true
 pub:            "Journal of Software (in Chinese)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-danger">中文 CCF-A</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-danger">Chinese CCF-A</span>'
 pub_date:       "2025"
 #semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract: >-
