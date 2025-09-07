@@ -60,3 +60,8 @@ awards:
 service:
 - name: Assistant to the Chair of CCF ChinaSoft 2021 & 2022 — Exchange and Competition on Teaching Cases in Software
   date: 2021 & 2022
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  Copyright © 2025 <a href="https://github.com/YaqiXia" target="_blank">Tiangang Li</a>. All Rights Reserved.
