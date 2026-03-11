@@ -12,13 +12,13 @@ abstract: >-
   We propose SAC-MWF, a multi-view workload forecast ensemble framework based on Soft Actor-Critic (SAC) algorithm.
 #cover:          /assets/images/covers/cover3.jpg
 authors:
-  - ZENG Wen-Xuan
-  - YING Shi
-  - LI Tian-Gang
-  - TIAN Xiang-Bo
-  - JIANG Yu-Hong
-  - LIU Hu-Jie
-  - HAO Shi-Kui
+  - Wenxuan Zeng
+  - Shi Ying
+  - Tiangang Li
+  - Xiangbo Tian
+  - Yuhong Jiang
+  - Hujie Liu
+  - Shikui Hao
 links:
   Paper: https://www.jos.org.cn/josen/article/pdf/7424
 #  Code: https://github.com/luost26/academic-homepage
