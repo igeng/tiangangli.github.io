@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+url: "https://igeng.github.io"
 baseurl: "/tiangangli.github.io" # the subpath of your site, e.g. /blog
 
 # Build settings
@@ -35,6 +36,11 @@ plugins:
 # timezone: Asia/Shanghai
 
 collections:
-  - publications
-  - news
-  - showcase
+  publications:
+    output: true
+  news:
+    output: true
+  showcase:
+    output: true
+
+# Exclude from processing... (保持默认即可)
